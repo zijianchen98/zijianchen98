@@ -4,8 +4,8 @@ I am a research assistant at the Institute of Image Communication and Informatio
 
 📫 **Contact me by**:
 - Email (tzijian.chen [AT] gmail.com)
+- [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=NSR4UkMAAAAJ)
 - [知乎:「OnOuOnO」](https://www.zhihu.com/people/amorzhu-ling-feng)
-- [Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=NSR4UkMAAAAJ)
 
 [![Anurag's GitHub stats](https://github-readme-stats-alpha-three-34.vercel.app/api?username=zijianchen98&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 

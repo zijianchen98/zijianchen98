@@ -1,9 +1,12 @@
 ### Hi there, I am Zijian Chen 👋
 
-I am a research assistant at the Institute of Image Communication and Information Processing, Shanghai Jiao Tong University. I worked with Professor [Guangtao Zhai](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=24&infoid=66&flag=66). I have been working on Image/Video Quality Assessment, Peceptual Signal Processing, and Deep Learning.
+I am a research assistant at the Institute of Image Communication and Information Processing, Shanghai Jiao Tong University, China. I worked with Professor [Guangtao Zhai](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=24&infoid=66&flag=66).
+
+- Topics: **Image/Video Quality Assessment**, **Peceptual Signal Processing**, **Deep Learning**🌱
+- If you find our work useful, please give us stars!! Thank you!!!
 
 📫 **Contact me by**:
-- Email (tzijian.chen [AT] gmail.com)
+- My Email (tzijian.chen@gmail.com)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=NSR4UkMAAAAJ)
 - [知乎:「OnOuOnO」](https://www.zhihu.com/people/amorzhu-ling-feng)
 

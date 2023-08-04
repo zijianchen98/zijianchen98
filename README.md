@@ -6,7 +6,7 @@ I am a research assistant at the Institute of Image Communication and Informatio
 - If you find our work useful, please give us stars!! Thank you!!!
 
 📫 **Contact me by**:
-- My Email (tzijian.chen@gmail.com)
+- My Email (zijian.chen@sjtu.edu.cn)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=NSR4UkMAAAAJ)
 - [知乎:「OnOuOnO」](https://www.zhihu.com/people/amorzhu-ling-feng)
 

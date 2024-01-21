@@ -1,7 +1,6 @@
 ### Hi there, I am Zijian Chen 👋
 
-I am a PhD student at the Institute of Image Communication and Information Processing, Shanghai Jiao Tong University, China. I work with Professor [Guangtao Zhai](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=24&infoid=66&flag=66).
-
+I am a PhD student at the Institute of Image Communication and Information Processing, Shanghai Jiao Tong University, China.
 - Topics: **Image/Video Quality Assessment**, **Peceptual Signal Processing**, **Deep Learning**🌱
 - If you find our work useful, please give us stars!! Thank you!!!
 

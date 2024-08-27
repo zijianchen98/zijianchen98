@@ -7,7 +7,6 @@ I am a PhD student at the Institute of Image Communication and Information Proce
 📫 **Contact me by**:
 - My Email (zijian.chen@sjtu.edu.cn)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=NSR4UkMAAAAJ)
-- [知乎:「OnOuOnO」](https://www.zhihu.com/people/amorzhu-ling-feng)
 
 [![Anurag's GitHub stats](https://github-readme-stats-alpha-three-34.vercel.app/api?username=zijianchen98&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,7 +1,7 @@
 ### Hi there, I am Zijian Chen 👋
 
 I am a PhD student at the Institute of Image Communication and Information Processing, Shanghai Jiao Tong University, China.
-- Topics: **Image/Video Quality Assessment**, **Peceptual Signal Processing**, **Deep Learning**🌱
+- Topics: **Large Multi-Modal Models**, **Image/Video Quality Assessment**, **Peceptual Signal Processing**, **Deep Learning**🌱
 - If you find our work useful, please give us stars!! Thank you!!!
 
 📫 **Contact me by**:
